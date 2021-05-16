@@ -1,4 +1,4 @@
-# GoogleDrive_Cleanner
+# GoogleDrive_Cleaner
 Remove the Google Drive(GD) trash files immediately and permanently,
 free up your storage space.
  - Move the files you don’t need to trash bin in GD.
